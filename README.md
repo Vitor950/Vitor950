@@ -1,4 +1,4 @@
-### Olá! Eu sou o vitor Garcia!🤙
+### Olá! Eu sou o vitor!
 
 [![blog](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/channel/UCtIfgMvcWvmo2QSs5HkJBkg)
 
