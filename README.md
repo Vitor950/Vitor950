@@ -13,13 +13,3 @@
 </div><br/>
 
 Estudando 🎓
-
-
-
-{
-    "recommendations": [
-        "yzhang.markdown-all-in-one",
-        "esbenp.prettier-vscode",
-        "dbaeumer.vscode-eslint"
-    ]
-}
