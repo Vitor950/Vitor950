@@ -1,6 +1,6 @@
 ### Olá! Eu sou o vitor!
 
-[![blog]()
+
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor950&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor950&layout=compact)
